@@ -1,0 +1,100 @@
+body{
+    background-color: rgb(34, 192, 150);
+}
+h1{
+    color:blueviolet;
+    text-align: left;
+    font-size: large;
+    font-style:oblique;
+    width: 100px;
+    position: relative;
+    top: 0px;
+    left: 0%;
+}
+.one{
+text-align: end;
+position:absolute;
+right: 0%;
+top: 20px;
+
+
+}
+#flex1{
+    display:flex;
+}
+#flex2{
+    display:flex
+}
+.israt{
+
+    position: relative;
+    left: 0;
+    top: 10px
+}
+.two{
+    position: relative;
+    top: 4px;
+    font-size: smaller;
+}
+h2{
+    margin-left: 8px;
+    color: brown;
+    font-style: italic;
+}
+p{
+    margin-left: 8px;
+    color: rgb(39, 77, 2);
+    font-style: oblique;
+}
+h3{
+    color: rgb(216, 15, 15);
+    font-style: italic;
+}
+.three{
+    display: flex;
+    position: absolute;
+    left: 20px;
+} 
+
+.six{
+    display: flex;
+    border: 2px solid gray;
+    height: 300px;
+    position: relative;
+    top: 5px;
+}
+.ul1{
+    border: 4px solid rgb(114, 113, 109);
+    height: 180px;
+    width: 300px;
+    font-style: italic;
+}
+.ul2{
+    border: 4px solid rgb(125, 122, 114);
+    height: 180px;
+    width: 300px;
+    font-style: italic;
+    
+}
+h3{
+    position:relative;
+    left:20px ;
+}
+.four{
+    position: absolute;
+    right: 100px;
+}
+.five{position:relative;
+    top: 20px; 
+    font-style: italic;
+    border: 2px solid gray;
+
+}
+h4{color: brown;
+    position: relative;
+    left: 40px;
+}
+h5{
+    position:relative;
+    left: 40px;
+}

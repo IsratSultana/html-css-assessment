@@ -1,0 +1,98 @@
+*{
+    background-color: rgb(34, 192, 150);
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 5vw 3vw 1vw 5vw;
+    border-bottom: 1px solid grey;
+}
+.navigation{
+    display: flex;
+    justify-content: flex-end;
+}
+
+#navbar h1{
+    font-size: 3vw;
+
+    font-family: sans-serif;
+}
+.navigation a{
+    text-decoration: none;
+    font-style: italic;
+    font-size: 2vw;
+    padding-left: 1.5vw;
+}
+img.israt{
+    width: 10%;
+    height:0%;
+    padding: 2vw 1vw 2vw 5vw;
+}
+#details{
+    display: flex;
+    border-bottom: 1px solid grey;
+}
+.two{
+    padding-left: 3vw;
+}
+.two h2{
+    color: brown;
+    font-family: serif;
+    font-size: 3vw;
+}
+.two p{
+    color: rgb(85, 82, 82);
+    font-style: italic;
+    font-weight: 550;
+    font-size: 1vw;
+}
+.six{
+    margin-bottom: 3vw ;
+    border-bottom: 1px solid grey;
+}
+h3{
+    margin-left: 5vw;
+    color: brown;
+    font-family: serif;
+    font-size: 2vw;
+    padding: 1vw 0;
+}
+table{
+    width: 40%;
+    margin-left: 5vw;
+    border: 2px solid black;
+    padding: 1vw;
+}
+td{
+    width: 20%;
+    padding: 1vw;
+}
+.four{
+    position: absolute;
+    top: 26vw;
+    left: 68%;
+    width: 30%;
+}
+.four input{
+    background-color: white;
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    height: 2vw;
+}
+.three{
+    padding-bottom: 3vw;
+}
+#btn{
+    width: 30%;
+    background-color: blue;
+    color: white;
+    border:none;
+    border-radius: 10px;
+}
+ol{
+   padding-left: 6vw;
+}
